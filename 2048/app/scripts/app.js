@@ -1,6 +1,6 @@
 'use strict';
 
 angular
-  .module('2048App', [
+  .module('twentyfourtyeightApp', [
     'ngCookies'
   ]);
